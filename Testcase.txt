@@ -1,10 +1,10 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. on home page, see whether the nav button can take user to the correct page
+2. on home page, check the login system with both corrent and wrong login information 
+3. on shop page, when 'buy' button clicked, whether products are added into cart successfully(number in cart updated)
+4. on contact page, verify form data, check whether the reg expression can identify wrong input 
+5. on contact page, when inputs in form are wrong or missing, can user submit the form?
+6. on every page, check whether the cart update, after user finish checkout
+7. on every page, check when log back/refresh the website, is the user information has been stored 
+8. on every page, check wehether the components (html elements) user friendly on different devices (Pc, tablet, mobile) 
+9. test the whole process from login to shop/add product to cart to checkout 
+10. test the website on different browser 
